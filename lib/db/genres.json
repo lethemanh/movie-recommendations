@@ -1,0 +1,14 @@
+[
+  { "label": "Action", "value": 28 },
+  { "label": "Crime", "value": 80 },
+  { "label": "Drama", "value": 18 },
+  { "label": "Adventure", "value": 12 },
+  { "label": "Horror", "value": 27 },
+  { "label": "Thriller", "value": 53 },
+  { "label": "Fantasy", "value": 14 },
+  { "label": "History", "value": 36 },
+  { "label": "Romance", "value": 10749 },
+  { "label": "Mystery", "value": 9648 },
+  { "label": "Comedy", "value": 35 },
+  { "label": "Animation", "value": 16 }
+]

@@ -1,0 +1,14 @@
+[
+  { "label": "HBO", "value": 3268 },
+  { "label": "DreamWorks Animation", "value": 521 },
+  { "label": "Warner Bros. Pictures", "value": 174 },
+  { "label": "Pixar", "value": 3 },
+  { "label": "DC Films", "value": 128064 },
+  { "label": "Columbia Pictures", "value": 5 },
+  { "label": "Sony Pictures Animation", "value": 2251 },
+  { "label": "Universal Pictures", "value": 33 },
+  { "label": "Blumhouse Productions", "value": 3172 },
+  { "label": "Skydance", "value": 82819 },
+  { "label": "Walt Disney Pictures", "value": 2 },
+  { "label": "Syncopy", "value": 9996 }
+]
